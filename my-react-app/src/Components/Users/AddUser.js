@@ -47,6 +47,7 @@ const AddUser = () => {
         />
         <Button type="submit">Add User</Button>
       </form>
+      <UsersList/>
     </Card>
   );
 };
